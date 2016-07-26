@@ -1,0 +1,11 @@
+
+.tiny_pic {
+  height:30px;
+  width: 30px;
+}
+.suggList  {
+text-align: center;
+}
+.suggList li {
+list-style-type: none;
+}
